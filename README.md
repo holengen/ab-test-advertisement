@@ -23,8 +23,8 @@
         *   `CVR.png`
         *   `CPA.png`
     *   `/funnels/`
-        *   `test_funnel`
-        *   `control_funnel`
+        *   `test_funnel.png`
+        *   `control_funnel.png`
     *   `box-plots.png`
     *   `bootstrap.png`
 *   `requirements.txt`
